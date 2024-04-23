@@ -6,6 +6,11 @@ Although I humorously claim to be a Rails contributor for correcting a few typos
 
 I was also featured in the most popular software blog in Poland. Read about it here: [Why We Chose 1Password for Managing Passwords in a Software House](https://geek.justjoin.it/dlaczego-wybralismy-1password-do-zarzadzania-haslami-w-software-housie/).
 
+### 🏆 Favourite piece of content
+
+Explaining what ADD feels like in my day job:
+[ADD programming in autism capital](https://shem-home-page.vercel.app/blog/7-1-add-programming-in-autism-capital/)
+
 ### 📘 Featured Blog Posts
 
 I've put together a series of blog posts where I compare six programming languages to help you get the gist of each with practical projects. Check them out:
