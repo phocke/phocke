@@ -1,6 +1,6 @@
 ## Welcome to My GitHub! 🚀
 
-Hi, I'm Shem - I take care of tech, techies, and tech users. I've had the privilege of working at DataCamp, thoughtbot, and now Clari. Throughout my career, I've built two tech teams and authored a guide on the topic, which you can check out here: [Why and How to Build Your Tech Team in Poland](https://phocke.gumroad.com/l/qzUPq).
+Hi, I'm Shem - I take care of tech, techies, and tech users. I've had the privilege of working at ThoughtBot, Clari, and Datacamp. Throughout my career, I've built two tech teams and authored a guide on the topic, which you can check out here: [Why and How to Build Your Tech Team in Poland](https://phocke.gumroad.com/l/qzUPq).
 
 Although I humorously claim to be a Rails contributor for correcting a few typos in the documentation, you can see my earth-shattering contributions here: [Rails Documentation Typos](https://contributors.rubyonrails.org/contributors/przemek-hocke/commits).
 
